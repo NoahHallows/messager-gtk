@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.quackmail.message.desktop.in
+data/com.quackmail.message.metainfo.xml.in
+data/com.quackmail.message.gschema.xml
+src/main.c
+src/quackmessage-window.c
+src/quackmessage-window.ui

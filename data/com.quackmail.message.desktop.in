@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=quackmessage
+Exec=quackmessage
+Icon=com.quackmail.message
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
